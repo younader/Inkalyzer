@@ -25,7 +25,9 @@ pip install -r requirements.txt
 
 ```
 
-You can download this checkpoint (which is an old I3D I had laying around): [link](https://drive.google.com/file/d/1BXvADKzJZ4ZSDHsKXa-fZES3MOfMrMdJ/view?usp=sharing), or you can use any checkpoint you want (refer to externals.models for more details). 
+You can download this checkpoint (which is an old I3D I had laying around): [link](https://drive.google.com/file/d/1BXvADKzJZ4ZSDHsKXa-fZES3MOfMrMdJ/view?usp=sharing), or you can use any checkpoint you want (refer to externals.models for more details).
+ 
+A resnet50 checkpoints for the fragments can also be found [here](https://drive.google.com/file/d/1D8SKmt3Xl-xWcxBqQr-jU-rj69KoCSZs/view?usp=sharing)
 
 # Documentation
 The repo implements different variation of IBA and diffmask 

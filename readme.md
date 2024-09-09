@@ -2,7 +2,7 @@
 
 <!-- ![Vesuvius Challenge XAI](chatgpt_logo.png) -->
 
-The Repository contains an XAI toolkit for analyzing ink detection and explaining predictions using various information bottleneck techniques from XAI literature. 
+The Repository contains an [Explainable AI (XAI)](https://en.wikipedia.org/wiki/Explainable_artificial_intelligence) toolkit for analyzing ink detection and explaining predictions using various information bottleneck techniques from XAI literature. 
 
 The toolkit is designed to work with any type of models as the bottleneck is placed outside of the network (i.e in input space).    
 
